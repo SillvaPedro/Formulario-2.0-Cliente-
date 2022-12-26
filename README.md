@@ -1,5 +1,6 @@
                                                   # Formulario-2.0 (Clientes)
-    Formulario-2.0 com sincronização ao Banco de Dados (MySQL)
+    
+ Formulario-2.0 com sincronização ao Banco de Dados (MySQL)
 
  # Linguagens utilizadas ( HTML, CSS, JAVASCRIPT, PHP, MYSQL)
  
